@@ -25,7 +25,7 @@ You could change these parameters in the tomasulo class defined in `tomasulo.py`
 
 ## Run
 
-Firstly, change change the path of your input file and output file in `tomasulo.py`.
+Firstly, change the path of your input file and output file in `tomasulo.py`.
 
 ```python
 # change the path of your input file and output file here
