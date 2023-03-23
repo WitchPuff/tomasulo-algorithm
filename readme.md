@@ -43,4 +43,4 @@ python tomasulo.py
 
 You could use `Tomasulo.exe` to validate your results in details.
 
-You could see the exampless of input and output in  `output.txt` and `output2.txt` .
+You could see the examples of input and output in  `output.txt` and `output2.txt` .
