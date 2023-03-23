@@ -1,6 +1,6 @@
 # Computer Architecture - Tomasulo Algorithm
 
-## Requirements
+## Summary
 
 Implement the Tomasulo Algorithm in Python. Run the given instruction set with it and print out the reservation stations, load/store buffer status, function unit of every cycle, in addition to the cycle  that the instructions are issued, executed and written back.
 
@@ -43,4 +43,4 @@ python tomasulo.py
 
 You could use `Tomasulo.exe` to validate your results in details.
 
-You could see the example of input and output in  `output.txt` and `output2.txt` .
+You could see the exampless of input and output in  `output.txt` and `output2.txt` .
